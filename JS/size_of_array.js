@@ -1,4 +1,13 @@
-// Your array
+/**
+ * @fileOverview This script calculates and logs the length of an array,
+ * its size in bytes, and its size in kilobytes. The array contains
+ * various strings
+ */
+
+/**
+ * Array of strings
+ * @type {string[]}
+ */
 const array = [
   "Dresses",
   "Dress",
